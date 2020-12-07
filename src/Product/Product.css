@@ -1,0 +1,13 @@
+.Product {
+  width: 230px;
+  height: 300px;
+  border: solid;
+  border-color: blue;
+  float: left;
+  margin: 5px;
+  padding: 10px;
+  font-size: 15px;
+}
+.img {
+  height: 150px;
+}
