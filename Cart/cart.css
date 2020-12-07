@@ -1,0 +1,14 @@
+.Cart {
+  height: 100px;
+  width: 100px;
+  background-color: 0;
+  left: 600px;
+  position: absolute;
+}
+.img {
+  height: 20px;
+  width: 80px;
+}
+.count {
+  float: right;
+}
